@@ -100,3 +100,7 @@ Contribuições são bem-vindas! Abra uma *issue* ou envie um *pull request* com
 ## Licença
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
+
+## Referência
+
+Repositório original: [node-ts-webapi-without-frameworks-podcast-manager](https://github.com/felipeAguiarCode/node-ts-webapi-without-frameworks-podcast-menager)
