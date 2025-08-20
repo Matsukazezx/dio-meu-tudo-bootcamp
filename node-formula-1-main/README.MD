@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="./.github/assets/blue-saiyan-bg.png" alt="Logo" height="200">
+  <img src="./assets/blue-saiyan-bg.png" alt="Logo" height="200">
   <h1 align="center"><strong>NODE BOILERPLATE - BLUE EDITION (Fastify)</strong></h1>
   <p align="center">
 	  Don't start a new Node project from zero!<br> Use this simple <b>Node.js</b> boilerplate with pre-configured <b>Typescript</b>, <b>Fastify</b> and modern DX.
