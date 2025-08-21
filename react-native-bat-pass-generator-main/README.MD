@@ -1,6 +1,6 @@
 <div align="center">
   <a href="#">
-      <img src=".github/assets/badge.png" width="200" />
+      <img src="assets/badge.png" width="200" />
   </a>
 
   <!-- project name -->
@@ -64,7 +64,7 @@
 
 <div align="center">
   <a href="#">
-      <img src=".github/assets/preview.png" width="200" alt="preview" />
+      <img src="/assets/preview.png" width="200" alt="preview" />
   </a>
 </div>
 
