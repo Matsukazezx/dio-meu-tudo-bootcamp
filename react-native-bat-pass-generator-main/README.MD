@@ -111,9 +111,9 @@ Runs the app in the development mode.<br/>
 
 ## Contributors & Improvements  
 
-This boilerplate was initially created by **Felipe Aguiar**, and later improved by **[Matsukazezx](https://github.com/Matsukazezx)**, adding:  
+This project was initially created by **Felipe Aguiar**, and later improved by **[Matsukazezx](https://github.com/Matsukazezx)**, adding:  
 
 - A **flexible password generator**, allowing users to configure:  
   - Password length (via slider);  
   - Inclusion or exclusion of **uppercase letters**, **lowercase letters**, **numbers**, and **symbols** (via switches).  
-- A **copy feedback system**, showing an alert when the password is copied successfully.  
+- A **copy feedback system**, showing an alert when the password is successfully copied.  
