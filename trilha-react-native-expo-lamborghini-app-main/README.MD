@@ -33,30 +33,7 @@
   <p align="center">
       An interactive showroom app to explore Lamborghini cars.
     <br />
-    <a 
-      href="## Usage">
-      <strong>Go to usage now »</strong>
-    </a>
-    <br />
-    <br />
-    <a 
-      href="https://github.com/yourusername/react-native-lamborghini-showroom/issues">
-      Report Bug
-    </a>
-    ·
-    <a 
-      href="https://github.com/yourusername/react-native-lamborghini-showroom/issues/new">
-      Request Feature
-    </a>
   </p>
-</div>
-
-## Preview
-
-<div align="center">
-  <a href="#">
-      <img src=".github/assets/preview.png" width="200" alt="preview" />
-  </a>
 </div>
 
 ## 🔥 Features
@@ -107,4 +84,5 @@ Runs the app in the development mode.<br/>
 This boilerplate was initially created by **Felipe Aguiar**, and later improved by **[Matsukazezx](https://github.com/Matsukazezx)**, adding:
 
 - A **camera frame style garage screen** simulating a premium showroom;
+
 
