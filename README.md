@@ -44,16 +44,16 @@ Cada pasta representa um desafio de projeto entregue ao longo do bootcamp.
 
 ## 🏗️ Projetos Desenvolvidos
 
-1. **Mario Kart Simulator** 🏎️ → Jogo simples inspirado em Mario Kart.
-2. **ChatGPT Clone** 🤖 → Aplicação com chat baseado em IA.
-3. **Champions League API** ⚽ → API para gerenciar times e jogadores.
-4. **E-commerce App** 🛒 → Aplicativo mobile para compras online.
-5. **Tasks Manager** ✅ → Gerenciamento de tarefas com categorias.
-6. **Weather Forecast** 🌦️ → Aplicativo de previsão do tempo.
-7. **Movies App** 🎬 → Catálogo de filmes com busca e favoritos.
-8. **Podcast Manager** 🎧 → Catálogo de podcasts estilo Netflix.
-9. **Password Generator** 🔑 → Gerador de senhas seguras.
-10. **Social Network** 👥 → Rede social simples com posts e interações.
+1. **Bat Signal App** 🦇 → Aplicativo mobile com tema Batman.
+2. **Formula 1 API** 🏎️ → API Node.js para simulação de corridas de F1.
+3. **Podcast Manager** 🎧 → Catálogo de podcasts estilo Netflix.
+4. **Portfólio App** 💼 → Aplicativo mobile para exibir portfólio.
+5. **Champions League API** ⚽ → API para gerenciar times e jogadores.
+6. **Mario Kart Simulator** 🎮 → Simulação simples inspirada no Mario Kart.
+7. **QR Code Generator** 📷 → Aplicação para gerar QR Codes.
+8. **Password Generator** 🔑 → App mobile para gerar senhas seguras.
+9. **Shopee Cart** 🛒 → Simulação de carrinho de compras inspirado na Shopee.
+10. **Lamborghini App** 🚗 → Aplicativo mobile sobre carros Lamborghini.
 
 ## ⚙️ Como Rodar os Projetos
 
