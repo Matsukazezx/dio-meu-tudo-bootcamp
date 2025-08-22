@@ -38,7 +38,7 @@ src/
 Clone o repositório e instale as dependências:
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/Matsukazezx/dio-meu-tudo-bootcamp.git
 cd projeto-champions
 npm install
 ```
@@ -123,4 +123,5 @@ Resposta:
 * Testes unitários e de integração.
 
 ---
+
 
