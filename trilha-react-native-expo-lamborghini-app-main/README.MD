@@ -15,14 +15,6 @@
       src="https://img.shields.io/badge/made%20by-Felipe%20Aguiar-%20?color=6A57D5"
     >
     <img 
-      alt="Project top programing language" 
-      src="https://img.shields.io/github/languages/top/Matsukazezx/dio-meu-tudo-bootcamp/trilha-react-native-expo-lamborghini-app-main?color=01A6B3"
-    >
-    <img 
-      alt="Repository size" 
-      src="https://img.shields.io/github/repo-size/Matsukazezx/dio-meu-tudo-bootcamp/trilha-react-native-expo-lamborghini-app-main?color=01A6B3"
-    >
-    <img 
       alt="GitHub license" 
       src="https://img.shields.io/github/license/Matsukazezx/trilha-react-native-expo-lamborghini-app-main?color=01A6B3"
     >
