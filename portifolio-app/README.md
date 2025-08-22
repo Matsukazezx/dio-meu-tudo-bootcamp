@@ -57,7 +57,7 @@ Este projeto foi desenvolvido em **React Native** com **Expo**, e tem como objet
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repo.git
+git clone https://github.com/Matsukazezx/dio-meu-tudo-bootcamp.git
 ```
 
 2. Instale as dependências:
