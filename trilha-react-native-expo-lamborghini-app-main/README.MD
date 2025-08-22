@@ -16,11 +16,11 @@
     >
     <img 
       alt="Project top programing language" 
-      src="https://img.shields.io/github/languages/top/Matsukazezx/trilha-react-native-expo-lamborghini-app-main?color=01A6B3"
+      src="https://img.shields.io/github/languages/top/Matsukazezx/dio-meu-tudo-bootcamp/trilha-react-native-expo-lamborghini-app-main?color=01A6B3"
     >
     <img 
       alt="Repository size" 
-      src="https://img.shields.io/github/repo-size/Matsukazezx/trilha-react-native-expo-lamborghini-app-main?color=01A6B3"
+      src="https://img.shields.io/github/repo-size/Matsukazezx/dio-meu-tudo-bootcamp/trilha-react-native-expo-lamborghini-app-main?color=01A6B3"
     >
     <img 
       alt="GitHub license" 
@@ -84,6 +84,7 @@ Runs the app in the development mode.<br/>
 This boilerplate was initially created by **Felipe Aguiar**, and later improved by **[Matsukazezx](https://github.com/Matsukazezx)**, adding:
 
 - A **camera frame style garage screen** simulating a premium showroom;
+
 
 
 
