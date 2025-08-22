@@ -16,15 +16,15 @@
     >
     <img 
       alt="Project top programing language" 
-      src="https://img.shields.io/github/languages/top/Matsukazezx/react-native-lamborghini-showroom?color=01A6B3"
+      src="https://img.shields.io/github/languages/top/Matsukazezx/trilha-react-native-expo-lamborghini-app-main?color=01A6B3"
     >
     <img 
       alt="Repository size" 
-      src="https://img.shields.io/github/repo-size/yourusername/react-native-lamborghini-showroom?color=01A6B3"
+      src="https://img.shields.io/github/repo-size/Matsukazezx/trilha-react-native-expo-lamborghini-app-main?color=01A6B3"
     >
     <img 
       alt="GitHub license" 
-      src="https://img.shields.io/github/license/yourusername/react-native-lamborghini-showroom?color=01A6B3"
+      src="https://img.shields.io/github/license/Matsukazezx/trilha-react-native-expo-lamborghini-app-main?color=01A6B3"
     >
   </p>
 
@@ -56,8 +56,8 @@ This project was developed with the following technologies:
 You'll need [Node.js](https://nodejs.org) installed on your computer in order to build this app.
 
 ```bash
-git clone https://github.com/yourusername/react-native-lamborghini-showroom.git
-$ cd react-native-lamborghini-showroom
+git clone https://github.com/digitalinnovationone/trilha-react-native-expo-lamborghini-app.git
+$ cd trilha-react-native-expo-lamborghini-app-main
 $ npm install
 $ npm run start
 ```
@@ -84,5 +84,6 @@ Runs the app in the development mode.<br/>
 This boilerplate was initially created by **Felipe Aguiar**, and later improved by **[Matsukazezx](https://github.com/Matsukazezx)**, adding:
 
 - A **camera frame style garage screen** simulating a premium showroom;
+
 
 
